@@ -49,6 +49,8 @@ I'm a **Software Engineer** who specializes in **Full Stack Development** with a
 
 ### ⚡ Fun fact: I am an anime nerd and have been trying to incorporate VR to make it a more immersive experience.
 
+---
+
 ### 🔧 Technologies & Tools:
 
 **Languages**:
